@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+}
+
+body{
+  background: cadetblue;
+}
+#quote-box{
+  background: indigo;
+  max-width: 400px;
+  height: 300px;
+  color: wheat;
+  margin: auto;
+  margin-top: 15%;
+  border-radius: 40px;
+
+  
+}
+#text{
+  text-align: center;
+  padding-top: 10%;
+  font-weight: bold;
+  font-size: large;
+  
+}
+#author{
+  text-align: center;
+  padding-top: 10%; 
+}
+#tweet-quote{
+  text-align: left;
+  padding-top: 80px;
+  color: aliceblue; 
+  
+}
+a{
+  padding-bottom: 30px;  
+  color: white; 
+}
+#new-quote{
+text-align: right;
+position: relative;
+}
+
+
