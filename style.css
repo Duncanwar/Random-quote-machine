@@ -2,13 +2,8 @@ body{
     background: cadetblue;
 }
 #quote-box{
-    background: indigo;
-    max-width: 400px;
-    height: 300px;
-    color: wheat;
-    margin: auto;
-    margin-top: 15%;
-    border-radius: 40px;
+    background-color: blueviolet;
+   display: flex;
 
     
 }
